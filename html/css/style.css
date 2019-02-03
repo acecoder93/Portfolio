@@ -314,6 +314,21 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
     width: 40px;
 }
+.fa-resume{
+    background-color: rgb(248, 245, 245);
+    border-radius: 32px;
+    height: 40px;
+    padding: 13px;
+    text-align: center;
+    width: 40px;
+}
+#bannerCredit{
+    position: absolute;
+    top: 185%;
+    left: 93%;
+    width: 200px;
+    opacity: .2;
+}
 
 
 /*================================================================
@@ -478,6 +493,7 @@ ul.work li.active {
     border: 1px solid #fff;
     padding: 10px 10px;
     display: inline-block;
+    
 }
 
 .work .item:hover .portfolio-caption {
